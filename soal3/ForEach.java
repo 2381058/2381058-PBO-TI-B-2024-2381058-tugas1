@@ -2,7 +2,7 @@ package soal3;
 
 import java.util.Scanner;
 
-public class ForLoop {
+public class ForEach {
     public static void main(String[] args) {
         String kumpulanKata;
         Scanner input = new Scanner(System.in);
